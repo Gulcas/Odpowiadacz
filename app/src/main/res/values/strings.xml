@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Odpowiadacz</string>
+    <string name="answare">Odpowiedź</string>
+    <string-array name="questionsArray">
+        <item>Twoje pytanie...</item>
+        <item>Czy dziś poniedziałek?</item>
+        <item>Jaki dziś dzień tygodnia?</item>
+        <item>Gdzie pracujesz?</item>
+        <item>Jak się nazywasz?</item>
+        <item>Jakie piwo lubisz?</item>
+        <item>Która godzina?</item>
+    </string-array>
+    <string-array name="odpArray">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>
